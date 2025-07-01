@@ -19,6 +19,7 @@ h1{
 
 .choice:hover{
     opacity: 62%;
+    cursor: pointer;
 }
 
 
