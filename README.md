@@ -39,13 +39,6 @@ The game lets the user play against the computer, keeps track of the scores, and
 └── README.md
 ```
 
----
-
-## 📸 Preview
-
-![Preview](https://user-images.githubusercontent.com/your-image-preview-url) <!-- Optional -->
-
----
 
 ## 🛠️ How To Use
 
@@ -53,12 +46,6 @@ The game lets the user play against the computer, keeps track of the scores, and
 2. Open `index.html` in any browser
 3. Click your choice and play against computer
 4. Use **Reset** button to start fresh game
-
----
-
-## 📦 Deployment (Optional)
-
-You can host this easily using GitHub Pages or Netlify.
 
 ---
 
